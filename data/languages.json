@@ -1,0 +1,812 @@
+{
+  "languages": [
+    {
+      "code": "ace_Arab",
+      "label": "Acehnese (Arabic script)"
+    },
+    {
+      "code": "ace_Latn",
+      "label": "Acehnese (Latin script)"
+    },
+    {
+      "code": "acm_Arab",
+      "label": "Iraqi Arabic (Arabic script)"
+    },
+    {
+      "code": "acq_Arab",
+      "label": "Taizzi-Adeni Arabic (Arabic script)"
+    },
+    {
+      "code": "aeb_Arab",
+      "label": "Tunisian Arabic (Arabic script)"
+    },
+    {
+      "code": "afr_Latn",
+      "label": "Afrikaans (Latin script)"
+    },
+    {
+      "code": "ajp_Arab",
+      "label": "South Levantine Arabic (Arabic script)"
+    },
+    {
+      "code": "aka_Latn",
+      "label": "Akan (Latin script)"
+    },
+    {
+      "code": "amh_Ethi",
+      "label": "Amharic (Ge'ez script)"
+    },
+    {
+      "code": "apc_Arab",
+      "label": "North Levantine Arabic (Arabic script)"
+    },
+    {
+      "code": "arb_Arab",
+      "label": "Modern Standard Arabic (Arabic script)"
+    },
+    {
+      "code": "ars_Arab",
+      "label": "Najdi Arabic (Arabic script)"
+    },
+    {
+      "code": "ary_Arab",
+      "label": "Moroccan Arabic (Arabic script)"
+    },
+    {
+      "code": "arz_Arab",
+      "label": "Egyptian Arabic (Arabic script)"
+    },
+    {
+      "code": "asm_Beng",
+      "label": "Assamese (Bengali script)"
+    },
+    {
+      "code": "ast_Latn",
+      "label": "Asturian (Latin script)"
+    },
+    {
+      "code": "awa_Deva",
+      "label": "Awadhi (Devanagari script)"
+    },
+    {
+      "code": "ayr_Latn",
+      "label": "Central Aymara (Latin script)"
+    },
+    {
+      "code": "azb_Arab",
+      "label": "South Azerbaijani (Arabic script)"
+    },
+    {
+      "code": "azj_Latn",
+      "label": "North Azerbaijani (Latin script)"
+    },
+    {
+      "code": "bak_Cyrl",
+      "label": "Bashkir (Cyrillic script)"
+    },
+    {
+      "code": "bam_Latn",
+      "label": "Bambara (Latin script)"
+    },
+    {
+      "code": "ban_Latn",
+      "label": "Balinese (Latin script)"
+    },
+    {
+      "code": "bel_Cyrl",
+      "label": "Belarusian (Cyrillic script)"
+    },
+    {
+      "code": "bem_Latn",
+      "label": "Bemba (Latin script)"
+    },
+    {
+      "code": "ben_Beng",
+      "label": "Bengali (Bengali script)"
+    },
+    {
+      "code": "bho_Deva",
+      "label": "Bhojpuri (Devanagari script)"
+    },
+    {
+      "code": "bjn_Arab",
+      "label": "Banjar (Arabic script)"
+    },
+    {
+      "code": "bjn_Latn",
+      "label": "Banjar (Latin script)"
+    },
+    {
+      "code": "bod_Tibt",
+      "label": "Tibetan (Tibetan script)"
+    },
+    {
+      "code": "bos_Latn",
+      "label": "Bosnian (Latin script)"
+    },
+    {
+      "code": "bug_Latn",
+      "label": "Buginese (Latin script)"
+    },
+    {
+      "code": "bul_Cyrl",
+      "label": "Bulgarian (Cyrillic script)"
+    },
+    {
+      "code": "cat_Latn",
+      "label": "Catalan (Latin script)"
+    },
+    {
+      "code": "ceb_Latn",
+      "label": "Cebuano (Latin script)"
+    },
+    {
+      "code": "ces_Latn",
+      "label": "Czech (Latin script)"
+    },
+    {
+      "code": "cjk_Latn",
+      "label": "Chokwe (Latin script)"
+    },
+    {
+      "code": "ckb_Arab",
+      "label": "Central Kurdish (Arabic script)"
+    },
+    {
+      "code": "crh_Latn",
+      "label": "Crimean Tatar (Latin script)"
+    },
+    {
+      "code": "cym_Latn",
+      "label": "Welsh (Latin script)"
+    },
+    {
+      "code": "dan_Latn",
+      "label": "Danish (Latin script)"
+    },
+    {
+      "code": "deu_Latn",
+      "label": "German (Latin script)"
+    },
+    {
+      "code": "dik_Latn",
+      "label": "Southwestern Dinka (Latin script)"
+    },
+    {
+      "code": "dyu_Latn",
+      "label": "Dyula (Latin script)"
+    },
+    {
+      "code": "dzo_Tibt",
+      "label": "Dzongkha (Tibetan script)"
+    },
+    {
+      "code": "ell_Grek",
+      "label": "Greek (Greek script)"
+    },
+    {
+      "code": "eng_Latn",
+      "label": "English (Latin script)"
+    },
+    {
+      "code": "epo_Latn",
+      "label": "Esperanto (Latin script)"
+    },
+    {
+      "code": "est_Latn",
+      "label": "Estonian (Latin script)"
+    },
+    {
+      "code": "eus_Latn",
+      "label": "Basque (Latin script)"
+    },
+    {
+      "code": "ewe_Latn",
+      "label": "Ewe (Latin script)"
+    },
+    {
+      "code": "fao_Latn",
+      "label": "Faroese (Latin script)"
+    },
+    {
+      "code": "pes_Arab",
+      "label": "Western Persian (Arabic script)"
+    },
+    {
+      "code": "fij_Latn",
+      "label": "Fijian (Latin script)"
+    },
+    {
+      "code": "fin_Latn",
+      "label": "Finnish (Latin script)"
+    },
+    {
+      "code": "fon_Latn",
+      "label": "Fon (Latin script)"
+    },
+    {
+      "code": "fra_Latn",
+      "label": "French (Latin script)"
+    },
+    {
+      "code": "fur_Latn",
+      "label": "Friulian (Latin script)"
+    },
+    {
+      "code": "fuv_Latn",
+      "label": "Nigerian Fulfulde (Latin script)"
+    },
+    {
+      "code": "gla_Latn",
+      "label": "Scottish Gaelic (Latin script)"
+    },
+    {
+      "code": "gle_Latn",
+      "label": "Irish (Latin script)"
+    },
+    {
+      "code": "glg_Latn",
+      "label": "Galician (Latin script)"
+    },
+    {
+      "code": "grn_Latn",
+      "label": "Guarani (Latin script)"
+    },
+    {
+      "code": "guj_Gujr",
+      "label": "Gujarati (Gujarati script)"
+    },
+    {
+      "code": "hat_Latn",
+      "label": "Haitian Creole (Latin script)"
+    },
+    {
+      "code": "hau_Latn",
+      "label": "Hausa (Latin script)"
+    },
+    {
+      "code": "heb_Hebr",
+      "label": "Hebrew (Hebrew script)"
+    },
+    {
+      "code": "hin_Deva",
+      "label": "Hindi (Devanagari script)"
+    },
+    {
+      "code": "hne_Deva",
+      "label": "Chhattisgarhi (Devanagari script)"
+    },
+    {
+      "code": "hrv_Latn",
+      "label": "Croatian (Latin script)"
+    },
+    {
+      "code": "hun_Latn",
+      "label": "Hungarian (Latin script)"
+    },
+    {
+      "code": "hye_Armn",
+      "label": "Armenian (Armenian script)"
+    },
+    {
+      "code": "ibo_Latn",
+      "label": "Igbo (Latin script)"
+    },
+    {
+      "code": "ilo_Latn",
+      "label": "Ilocano (Latin script)"
+    },
+    {
+      "code": "ind_Latn",
+      "label": "Indonesian (Latin script)"
+    },
+    {
+      "code": "isl_Latn",
+      "label": "Icelandic (Latin script)"
+    },
+    {
+      "code": "ita_Latn",
+      "label": "Italian (Latin script)"
+    },
+    {
+      "code": "jav_Latn",
+      "label": "Javanese (Latin script)"
+    },
+    {
+      "code": "jpn_Jpan",
+      "label": "Japanese (Japanese script)"
+    },
+    {
+      "code": "kab_Latn",
+      "label": "Kabyle (Latin script)"
+    },
+    {
+      "code": "kac_Latn",
+      "label": "Kachin (Latin script)"
+    },
+    {
+      "code": "kam_Latn",
+      "label": "Kamba (Latin script)"
+    },
+    {
+      "code": "kan_Knda",
+      "label": "Kannada (Kannada script)"
+    },
+    {
+      "code": "kas_Arab",
+      "label": "Kashmiri (Arabic script)"
+    },
+    {
+      "code": "kas_Deva",
+      "label": "Kashmiri (Devanagari script)"
+    },
+    {
+      "code": "kat_Geor",
+      "label": "Georgian (Georgian script)"
+    },
+    {
+      "code": "knc_Arab",
+      "label": "Kanuri (Arabic script)"
+    },
+    {
+      "code": "knc_Latn",
+      "label": "Kanuri (Latin script)"
+    },
+    {
+      "code": "kaz_Cyrl",
+      "label": "Kazakh (Cyrillic script)"
+    },
+    {
+      "code": "kbp_Latn",
+      "label": "Kabiye (Latin script)"
+    },
+    {
+      "code": "kea_Latn",
+      "label": "Kabuverdianu (Latin script)"
+    },
+    {
+      "code": "khm_Khmr",
+      "label": "Khmer (Khmer script)"
+    },
+    {
+      "code": "kik_Latn",
+      "label": "Kikuyu (Latin script)"
+    },
+    {
+      "code": "kin_Latn",
+      "label": "Kinyarwanda (Latin script)"
+    },
+    {
+      "code": "kir_Cyrl",
+      "label": "Kyrgyz (Cyrillic script)"
+    },
+    {
+      "code": "kmb_Latn",
+      "label": "Kimbundu (Latin script)"
+    },
+    {
+      "code": "kon_Latn",
+      "label": "Kongo (Latin script)"
+    },
+    {
+      "code": "kor_Hang",
+      "label": "Korean (Hangul)"
+    },
+    {
+      "code": "kmr_Latn",
+      "label": "Northern Kurdish (Latin script)"
+    },
+    {
+      "code": "lao_Laoo",
+      "label": "Lao (Lao script)"
+    },
+    {
+      "code": "lvs_Latn",
+      "label": "Latvian (Latin script)"
+    },
+    {
+      "code": "lij_Latn",
+      "label": "Ligurian (Latin script)"
+    },
+    {
+      "code": "lim_Latn",
+      "label": "Limburgish (Latin script)"
+    },
+    {
+      "code": "lin_Latn",
+      "label": "Lingala (Latin script)"
+    },
+    {
+      "code": "lit_Latn",
+      "label": "Lithuanian (Latin script)"
+    },
+    {
+      "code": "lmo_Latn",
+      "label": "Lombard (Latin script)"
+    },
+    {
+      "code": "ltg_Latn",
+      "label": "Latgalian (Latin script)"
+    },
+    {
+      "code": "ltz_Latn",
+      "label": "Luxembourgish (Latin script)"
+    },
+    {
+      "code": "lua_Latn",
+      "label": "Luba-Lulua (Latin script)"
+    },
+    {
+      "code": "lug_Latn",
+      "label": "Luganda (Latin script)"
+    },
+    {
+      "code": "luo_Latn",
+      "label": "Luo (Latin script)"
+    },
+    {
+      "code": "lus_Latn",
+      "label": "Mizo (Latin script)"
+    },
+    {
+      "code": "mag_Deva",
+      "label": "Magahi (Devanagari script)"
+    },
+    {
+      "code": "mai_Deva",
+      "label": "Maithili (Devanagari script)"
+    },
+    {
+      "code": "mal_Mlym",
+      "label": "Malayalam (Malayalam script)"
+    },
+    {
+      "code": "mar_Deva",
+      "label": "Marathi (Devanagari script)"
+    },
+    {
+      "code": "min_Latn",
+      "label": "Minangkabau (Latin script)"
+    },
+    {
+      "code": "mkd_Cyrl",
+      "label": "Macedonian (Cyrillic script)"
+    },
+    {
+      "code": "plt_Latn",
+      "label": "Plateau Malagasy (Latin script)"
+    },
+    {
+      "code": "mlt_Latn",
+      "label": "Maltese (Latin script)"
+    },
+    {
+      "code": "mni_Beng",
+      "label": "Manipuri (Bengali script)"
+    },
+    {
+      "code": "khk_Cyrl",
+      "label": "Halh Mongolian (Cyrillic script)"
+    },
+    {
+      "code": "mos_Latn",
+      "label": "Mossi (Latin script)"
+    },
+    {
+      "code": "mri_Latn",
+      "label": "Maori (Latin script)"
+    },
+    {
+      "code": "zsm_Latn",
+      "label": "Malay (Latin script)"
+    },
+    {
+      "code": "mya_Mymr",
+      "label": "Burmese (Myanmar script)"
+    },
+    {
+      "code": "nld_Latn",
+      "label": "Dutch (Latin script)"
+    },
+    {
+      "code": "nno_Latn",
+      "label": "Norwegian Nynorsk (Latin script)"
+    },
+    {
+      "code": "nob_Latn",
+      "label": "Norwegian Bokmal (Latin script)"
+    },
+    {
+      "code": "npi_Deva",
+      "label": "Nepali (Devanagari script)"
+    },
+    {
+      "code": "nso_Latn",
+      "label": "Northern Sotho (Latin script)"
+    },
+    {
+      "code": "nus_Latn",
+      "label": "Nuer (Latin script)"
+    },
+    {
+      "code": "nya_Latn",
+      "label": "Nyanja (Latin script)"
+    },
+    {
+      "code": "oci_Latn",
+      "label": "Occitan (Latin script)"
+    },
+    {
+      "code": "gaz_Latn",
+      "label": "Oromo (Latin script)"
+    },
+    {
+      "code": "ory_Orya",
+      "label": "Odia (Odia script)"
+    },
+    {
+      "code": "pag_Latn",
+      "label": "Pangasinan (Latin script)"
+    },
+    {
+      "code": "pan_Guru",
+      "label": "Punjabi (Gurmukhi script)"
+    },
+    {
+      "code": "pap_Latn",
+      "label": "Papiamento (Latin script)"
+    },
+    {
+      "code": "pol_Latn",
+      "label": "Polish (Latin script)"
+    },
+    {
+      "code": "por_Latn",
+      "label": "Portuguese (Latin script)"
+    },
+    {
+      "code": "prs_Arab",
+      "label": "Dari Persian (Arabic script)"
+    },
+    {
+      "code": "pbt_Arab",
+      "label": "Southern Pashto (Arabic script)"
+    },
+    {
+      "code": "quy_Latn",
+      "label": "Ayacucho Quechua (Latin script)"
+    },
+    {
+      "code": "ron_Latn",
+      "label": "Romanian (Latin script)"
+    },
+    {
+      "code": "run_Latn",
+      "label": "Rundi (Latin script)"
+    },
+    {
+      "code": "rus_Cyrl",
+      "label": "Russian (Cyrillic script)"
+    },
+    {
+      "code": "sag_Latn",
+      "label": "Sango (Latin script)"
+    },
+    {
+      "code": "san_Deva",
+      "label": "Sanskrit (Devanagari script)"
+    },
+    {
+      "code": "sat_Beng",
+      "label": "Santali (Bengali script)"
+    },
+    {
+      "code": "scn_Latn",
+      "label": "Sicilian (Latin script)"
+    },
+    {
+      "code": "shn_Mymr",
+      "label": "Shan (Myanmar script)"
+    },
+    {
+      "code": "sin_Sinh",
+      "label": "Sinhala (Sinhala script)"
+    },
+    {
+      "code": "slk_Latn",
+      "label": "Slovak (Latin script)"
+    },
+    {
+      "code": "slv_Latn",
+      "label": "Slovenian (Latin script)"
+    },
+    {
+      "code": "smo_Latn",
+      "label": "Samoan (Latin script)"
+    },
+    {
+      "code": "sna_Latn",
+      "label": "Shona (Latin script)"
+    },
+    {
+      "code": "snd_Arab",
+      "label": "Sindhi (Arabic script)"
+    },
+    {
+      "code": "som_Latn",
+      "label": "Somali (Latin script)"
+    },
+    {
+      "code": "sot_Latn",
+      "label": "Southern Sotho (Latin script)"
+    },
+    {
+      "code": "spa_Latn",
+      "label": "Spanish (Latin script)"
+    },
+    {
+      "code": "als_Latn",
+      "label": "Albanian (Tosk) (Latin script)"
+    },
+    {
+      "code": "srd_Latn",
+      "label": "Sardinian (Latin script)"
+    },
+    {
+      "code": "srp_Cyrl",
+      "label": "Serbian (Cyrillic script)"
+    },
+    {
+      "code": "ssw_Latn",
+      "label": "Swati (Latin script)"
+    },
+    {
+      "code": "sun_Latn",
+      "label": "Sundanese (Latin script)"
+    },
+    {
+      "code": "swe_Latn",
+      "label": "Swedish (Latin script)"
+    },
+    {
+      "code": "swh_Latn",
+      "label": "Swahili (Latin script)"
+    },
+    {
+      "code": "szl_Latn",
+      "label": "Silesian (Latin script)"
+    },
+    {
+      "code": "tam_Taml",
+      "label": "Tamil (Tamil script)"
+    },
+    {
+      "code": "tat_Cyrl",
+      "label": "Tatar (Cyrillic script)"
+    },
+    {
+      "code": "tel_Telu",
+      "label": "Telugu (Telugu script)"
+    },
+    {
+      "code": "tgk_Cyrl",
+      "label": "Tajik (Cyrillic script)"
+    },
+    {
+      "code": "tgl_Latn",
+      "label": "Tagalog (Latin script)"
+    },
+    {
+      "code": "tha_Thai",
+      "label": "Thai (Thai script)"
+    },
+    {
+      "code": "tir_Ethi",
+      "label": "Tigrinya (Ge'ez script)"
+    },
+    {
+      "code": "taq_Latn",
+      "label": "Tamasheq (Latin script)"
+    },
+    {
+      "code": "taq_Tfng",
+      "label": "Tamasheq (Tifinagh script)"
+    },
+    {
+      "code": "tpi_Latn",
+      "label": "Tok Pisin (Latin script)"
+    },
+    {
+      "code": "tsn_Latn",
+      "label": "Tswana (Latin script)"
+    },
+    {
+      "code": "tso_Latn",
+      "label": "Tsonga (Latin script)"
+    },
+    {
+      "code": "tuk_Latn",
+      "label": "Turkmen (Latin script)"
+    },
+    {
+      "code": "tum_Latn",
+      "label": "Tumbuka (Latin script)"
+    },
+    {
+      "code": "tur_Latn",
+      "label": "Turkish (Latin script)"
+    },
+    {
+      "code": "twi_Latn",
+      "label": "Twi (Latin script)"
+    },
+    {
+      "code": "tzm_Tfng",
+      "label": "Central Atlas Tamazight (Tifinagh script)"
+    },
+    {
+      "code": "uig_Arab",
+      "label": "Uyghur (Arabic script)"
+    },
+    {
+      "code": "ukr_Cyrl",
+      "label": "Ukrainian (Cyrillic script)"
+    },
+    {
+      "code": "umb_Latn",
+      "label": "Umbundu (Latin script)"
+    },
+    {
+      "code": "urd_Arab",
+      "label": "Urdu (Arabic script)"
+    },
+    {
+      "code": "uzn_Latn",
+      "label": "Uzbek (Latin script)"
+    },
+    {
+      "code": "vec_Latn",
+      "label": "Venetian (Latin script)"
+    },
+    {
+      "code": "vie_Latn",
+      "label": "Vietnamese (Latin script)"
+    },
+    {
+      "code": "war_Latn",
+      "label": "Waray (Latin script)"
+    },
+    {
+      "code": "wol_Latn",
+      "label": "Wolof (Latin script)"
+    },
+    {
+      "code": "xho_Latn",
+      "label": "Xhosa (Latin script)"
+    },
+    {
+      "code": "ydd_Hebr",
+      "label": "Yiddish (Hebrew script)"
+    },
+    {
+      "code": "yor_Latn",
+      "label": "Yoruba (Latin script)"
+    },
+    {
+      "code": "yue_Hant",
+      "label": "Cantonese (Traditional Chinese)"
+    },
+    {
+      "code": "zho_Hans",
+      "label": "Chinese (Simplified Chinese)"
+    },
+    {
+      "code": "zho_Hant",
+      "label": "Chinese (Traditional Chinese)"
+    },
+    {
+      "code": "zul_Latn",
+      "label": "Zulu (Latin script)"
+    }
+  ]
+}

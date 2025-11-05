@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <title>Thiết lập Inline Translator</title>
+    <link rel="stylesheet" href="options.css" />
+  </head>
+  <body>
+    <main class="options">
+      <h1>Thiết lập dịch inline</h1>
+      <form id="settings-form" class="options__form">
+        <label class="options__switch">
+          <input type="checkbox" id="developerMode" name="developerMode" />
+          <span>
+            Developer mode: Cho phép chỉnh sửa endpoint tùy ý (hãy cẩn thận với bảo mật).
+          </span>
+        </label>
+        <div id="endpointWrapper" class="options__endpoint">
+          <label class="options__field">
+            <span class="options__label">API endpoint</span>
+            <input type="url" id="endpoint" name="endpoint" placeholder="https://translate.seniordev.uk/translate" required />
+            <small class="options__hint">
+              Đường dẫn API nhận tham số <code>q</code>, có thể kèm <code>source</code>, <code>target</code>.
+            </small>
+          </label>
+        </div>
+
+        <div class="options__row">
+          <label class="options__field">
+            <span class="options__label">Mã ngôn ngữ gốc (source)</span>
+            <select id="sourceLang" name="sourceLang"></select>
+            <small class="options__hint">Chọn mã ngôn ngữ dành cho tham số <code>source</code>.</small>
+          </label>
+          <label class="options__field">
+            <span class="options__label">Mã ngôn ngữ đích (target)</span>
+            <select id="targetLang" name="targetLang"></select>
+            <small class="options__hint">Chọn mã ngôn ngữ dành cho tham số <code>target</code>.</small>
+          </label>
+        </div>
+
+        <div class="options__actions">
+          <button type="submit" class="options__button options__button--primary">Lưu</button>
+          <button type="button" id="reset-defaults" class="options__button">Khôi phục mặc định</button>
+        </div>
+      </form>
+      <p id="status" class="options__status" role="status" aria-live="polite"></p>
+    </main>
+
+    <script type="module" src="options.js"></script>
+  </body>
+</html>

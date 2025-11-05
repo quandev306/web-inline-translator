@@ -1,0 +1,7 @@
+{
+  "defaultEndpoint": "https://translate.seniordev.uk/translate",
+  "defaultSourceLang": "eng_Latn",
+  "defaultTargetLang": "vie_Latn",
+  "developerMode": false,
+  "debug": false
+}
