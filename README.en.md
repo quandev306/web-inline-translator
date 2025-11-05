@@ -2,14 +2,6 @@
 
 Inline Web Translator lets you translate any piece of text directly on the page you are browsing. Highlight the content you want to translate, press `Option + T` (Alt + T on Windows), and the extension will insert the translated text with a handy `[×]` button to remove it. The default language pair is English → Vietnamese, but you can choose any source and target language combination you need.
 
-## Other Languages
-
-- [Tiếng Việt](README.vi.md)
-- [한국어](README.ko.md)
-- [日本語](README.ja.md)
-- [简体中文](README.zh.md)
-- [Deutsch](README.de.md)
-
 ## Installation (Chrome / Edge)
 
 1. Open `chrome://extensions/` (or `edge://extensions/`).
